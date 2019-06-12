@@ -1,6 +1,6 @@
 # gatsby-from-cli
 
-[https://trusting-tereshkova-b00cd6.netlify.com/]
+https://trusting-tereshkova-b00cd6.netlify.com/
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
