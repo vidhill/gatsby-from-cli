@@ -10,7 +10,8 @@
     "format": "prettier --write src/**/*.{js,jsx}",
     "start": "npm run develop",
     "serve": "gatsby serve",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
+    "prettier-fix": "prettier --write \"**/*.js\" "
   },
   "dependencies": {
     "gatsby": "^2.9.1",
@@ -18,6 +19,12 @@
     "react-dom": "^16.8.6"
   },
   "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-prettier": "^5.0.0",
+    "eslint-config-react": "^1.1.7",
+    "eslint-plugin-filenames": "^1.3.2",
+    "eslint-plugin-prettier": "^3.1.0",
+    "eslint-plugin-react": "^7.13.0",
     "prettier": "^1.18.2"
   },
   "repository": {
